@@ -3,6 +3,7 @@ pragma solidity >= 0.5.0 < 0.9.0;
 
 // MohammadMahdiKeshavarz1382@gmail.com
 
+// All of my comments was incorrect so i deside to write them again!
 contract ETH_Pool {
 
     address owner;
