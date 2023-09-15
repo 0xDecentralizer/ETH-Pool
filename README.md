@@ -11,3 +11,5 @@ ETHPool provides a service where people can deposit ETH and they will receive we
 #### Goal:
 1-Design and code a contract for ETHPool, take all the assumptions you need to move forward.
 2-You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity, Vyper.
+
+//hi man
